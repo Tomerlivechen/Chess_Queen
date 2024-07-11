@@ -39,3 +39,4 @@ C:\Users\tomer\Downloads\Full_Satck_SQL-main\Full_Satck_SQL-main\C#\Chess_Queen\
 C:\Users\tomer\Downloads\Full_Satck_SQL-main\Full_Satck_SQL-main\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.pdb
 C:\Users\tomer\Downloads\Full_Satck_SQL-main\Full_Satck_SQL-main\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.genruntimeconfig.cache
 C:\Users\tomer\Downloads\Full_Satck_SQL-main\Full_Satck_SQL-main\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\ref\Chess_Queen.dll
+C:\Users\tomer\Downloads\Full_Satck_SQL-main\Full_Satck_SQL-main\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.sourcelink.json

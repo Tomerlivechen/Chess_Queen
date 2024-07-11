@@ -144,7 +144,7 @@ namespace Chess_Queen
         public static void reZeroSystem()
         {
             passed = new string[0];
-
+            
         }
 
 
