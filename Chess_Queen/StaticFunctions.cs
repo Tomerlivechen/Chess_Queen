@@ -32,7 +32,7 @@ namespace Chess_Queen
                     int Value1 = int.Parse(strings[0]);
                     int Value2 = int.Parse(strings[1]);
                      
-                for (int i = -2*size; i < 2*size; i++)
+                for (int i = -size; i < size; i++)
                 {
                     chessSet.Remove($"{Value1} {i}");
                     chessSet.Remove($"{i} {Value2}");

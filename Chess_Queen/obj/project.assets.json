@@ -8,20 +8,25 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tomer\\.nuget\\packages\\": {}
+    "C:\\Users\\tomer\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tomer\\Downloads\\Full_Satck_SQL-main\\Full_Satck_SQL-main\\C#\\Chess_Queen\\Chess_Queen\\Chess_Queen.csproj",
+      "projectUniqueName": "C:\\Users\\tomer\\Documents\\Dot_Net course\\Chess_Queen\\Chess_Queen\\Chess_Queen.csproj",
       "projectName": "Chess_Queen",
-      "projectPath": "C:\\Users\\tomer\\Downloads\\Full_Satck_SQL-main\\Full_Satck_SQL-main\\C#\\Chess_Queen\\Chess_Queen\\Chess_Queen.csproj",
+      "projectPath": "C:\\Users\\tomer\\Documents\\Dot_Net course\\Chess_Queen\\Chess_Queen\\Chess_Queen.csproj",
       "packagesPath": "C:\\Users\\tomer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tomer\\Downloads\\Full_Satck_SQL-main\\Full_Satck_SQL-main\\C#\\Chess_Queen\\Chess_Queen\\obj\\",
+      "outputPath": "C:\\Users\\tomer\\Documents\\Dot_Net course\\Chess_Queen\\Chess_Queen\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
         "C:\\Users\\tomer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0-windows"
