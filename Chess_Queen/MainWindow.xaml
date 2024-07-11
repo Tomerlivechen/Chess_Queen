@@ -1,0 +1,25 @@
+﻿<Window x:Class="Chess_Queen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Chess_Queen"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBox Name="setSixe" ></TextBox>
+        <Button Name="runAlgorythim" Content="Run" Grid.Column="1" Click="runAlgorythim_Click"></Button>
+        <TextBox Name="export"  Grid.Row="1" TextWrapping="Wrap"></TextBox>
+        <TextBox Name="exportb"  Grid.Row="1" Grid.Column="1"  TextWrapping="Wrap"></TextBox>
+    </Grid>
+</Window>
