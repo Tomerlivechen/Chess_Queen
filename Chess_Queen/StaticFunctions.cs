@@ -131,7 +131,7 @@ namespace Chess_Queen
             setstartingPosition();
             foreach (string place in Position)
             {
-                reZeroSystem();
+                passed = new string[0];
                 resetboard();
                 current = place;
                 runQueenTest();
@@ -143,8 +143,13 @@ namespace Chess_Queen
 
         public static void reZeroSystem()
         {
-            passed = new string[0];
-            
+         chessSet = new Dictionary<string, string>();
+         last = "";
+         Position = new List<string>();
+         current = "";
+         size = 0;
+         endpointlist  = new List<EndScenerio>();
+         passed = new string[0];
         }
 
 

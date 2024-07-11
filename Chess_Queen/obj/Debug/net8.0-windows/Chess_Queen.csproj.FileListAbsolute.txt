@@ -1,24 +1,3 @@
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\bin\Debug\net8.0-windows\Chess_Queen.exe
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\bin\Debug\net8.0-windows\Chess_Queen.deps.json
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\bin\Debug\net8.0-windows\Chess_Queen.runtimeconfig.json
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\bin\Debug\net8.0-windows\Chess_Queen.dll
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\bin\Debug\net8.0-windows\Chess_Queen.pdb
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\MainWindow.g.cs
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\App.g.cs
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen_MarkupCompile.cache
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen_MarkupCompile.lref
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\MainWindow.baml
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.g.resources
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.AssemblyInfoInputs.cache
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.AssemblyInfo.cs
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.csproj.CoreCompileInputs.cache
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.sourcelink.json
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.dll
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\refint\Chess_Queen.dll
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.pdb
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.genruntimeconfig.cache
-C:\Users\tomer\Documents\Dot_Net course\SQL\Full_Satck_SQL\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\ref\Chess_Queen.dll
 C:\Users\tomer\Downloads\Full_Satck_SQL-main\Full_Satck_SQL-main\C#\Chess_Queen\Chess_Queen\bin\Debug\net8.0-windows\Chess_Queen.exe
 C:\Users\tomer\Downloads\Full_Satck_SQL-main\Full_Satck_SQL-main\C#\Chess_Queen\Chess_Queen\bin\Debug\net8.0-windows\Chess_Queen.deps.json
 C:\Users\tomer\Downloads\Full_Satck_SQL-main\Full_Satck_SQL-main\C#\Chess_Queen\Chess_Queen\bin\Debug\net8.0-windows\Chess_Queen.runtimeconfig.json
@@ -34,9 +13,9 @@ C:\Users\tomer\Downloads\Full_Satck_SQL-main\Full_Satck_SQL-main\C#\Chess_Queen\
 C:\Users\tomer\Downloads\Full_Satck_SQL-main\Full_Satck_SQL-main\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.AssemblyInfoInputs.cache
 C:\Users\tomer\Downloads\Full_Satck_SQL-main\Full_Satck_SQL-main\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.AssemblyInfo.cs
 C:\Users\tomer\Downloads\Full_Satck_SQL-main\Full_Satck_SQL-main\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Downloads\Full_Satck_SQL-main\Full_Satck_SQL-main\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.sourcelink.json
 C:\Users\tomer\Downloads\Full_Satck_SQL-main\Full_Satck_SQL-main\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.dll
 C:\Users\tomer\Downloads\Full_Satck_SQL-main\Full_Satck_SQL-main\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\refint\Chess_Queen.dll
 C:\Users\tomer\Downloads\Full_Satck_SQL-main\Full_Satck_SQL-main\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.pdb
 C:\Users\tomer\Downloads\Full_Satck_SQL-main\Full_Satck_SQL-main\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.genruntimeconfig.cache
 C:\Users\tomer\Downloads\Full_Satck_SQL-main\Full_Satck_SQL-main\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\ref\Chess_Queen.dll
-C:\Users\tomer\Downloads\Full_Satck_SQL-main\Full_Satck_SQL-main\C#\Chess_Queen\Chess_Queen\obj\Debug\net8.0-windows\Chess_Queen.sourcelink.json

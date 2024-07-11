@@ -23,6 +23,9 @@ namespace Chess_Queen
 
         private void runAlgorythim_Click(object sender, RoutedEventArgs e)
         {
+            StaticFunctions.reZeroSystem();
+            export.Text = "";
+            exportb.Text = "";
             StaticFunctions.size = int.Parse(setSixe.Text);
             StaticFunctions.runboard();
             foreach (EndScenerio end in StaticFunctions.endpointlist)
