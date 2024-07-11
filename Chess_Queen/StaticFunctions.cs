@@ -27,8 +27,11 @@ namespace Chess_Queen
         {
             if (current != last)
             {
-                int Value1 = (int)Char.GetNumericValue(current[0]);
-                int Value2 = (int)Char.GetNumericValue(current[2]);
+
+                    string[] strings = current.Split(' ');
+                    int Value1 = int.Parse(strings[0]);
+                    int Value2 = int.Parse(strings[1]);
+                     
                 for (int i = -2*size; i < 2*size; i++)
                 {
                     chessSet.Remove($"{Value1} {i}");
@@ -37,7 +40,6 @@ namespace Chess_Queen
                     chessSet.Remove($"{Value1 + i} {Value2 - i}");
                     chessSet.Remove($"{Value1 - i} {Value2 - i}");
                     chessSet.Remove($"{Value1 - i} {Value2 + i}");
-                    
                 }
                 chessSet.Add(current, "Valid");
                 passed = passed.Append(current).ToArray();

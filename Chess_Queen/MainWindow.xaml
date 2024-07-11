@@ -5,11 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Chess_Queen"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="850">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
             <ColumnDefinition/>
+            
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
@@ -17,13 +18,14 @@
             <RowDefinition/>
             <RowDefinition/>
             <RowDefinition/>
+            <RowDefinition/>
         </Grid.RowDefinitions>
-        <TextBox Name="exportb"   Grid.Row="1" Grid.Column="2" Margin="5" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" Grid.RowSpan="2"></TextBox>
-        <Button Name="runAlgorythim" Content="Run" FontSize="30" Grid.Column="1" Grid.Row="3" Click="runAlgorythim_Click" Margin="15"></Button>
-        <Label Content="Size of side of board 1-9" FontSize="23" VerticalAlignment="Bottom"/>
+        <TextBox Name="exportb"   Grid.Row="1" Grid.Column="1" Margin="5" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" Grid.RowSpan="3" Grid.ColumnSpan="2"></TextBox>
+        <Button Name="runAlgorythim" Content="Run" FontSize="30" Grid.Column="1" Grid.Row="4" Click="runAlgorythim_Click" Margin="15"></Button>
+        <Label Content="Size of side of board" FontSize="25" VerticalAlignment="Bottom"/>
         <TextBox Name="setSixe"  Grid.Row="1" TextWrapping="Wrap" Margin="25" FontSize="25"></TextBox>
-        <Label Content="Number of Queens" FontSize="25" Grid.Column="1" Grid.Row="0" VerticalAlignment="Bottom"/>
-        <Label Content="Board Display" FontSize="25" Grid.Column="2" Grid.Row="0" VerticalAlignment="Bottom"/>
-        <TextBox Name="export"  Grid.Row="1" Grid.Column="1" Margin="5" TextWrapping="Wrap"></TextBox>
+        <Label Content="Number of Queens" FontSize="25" Grid.Column="0" Grid.Row="2" VerticalAlignment="Bottom"/>
+        <Label Content="Board Display" FontSize="25" Grid.Column="1" Grid.Row="0" HorizontalContentAlignment="Center" Grid.ColumnSpan="2" VerticalAlignment="Bottom"/>
+        <TextBox Name="export"  Grid.Row="3" Grid.Column="0" Margin="5" TextWrapping="Wrap"></TextBox>
     </Grid>
 </Window>
